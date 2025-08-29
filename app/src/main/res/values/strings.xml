@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AyarHesaplama</string>
+    <string name="developer">EmrehanCetin</string>
+
+    <string name="label_takoz_gr">Takoz Gr:</string>
+    <string name="label_takoz_ayar">Takoz Ayar:</string>
+    <string name="label_has_gr">Has Gr:</string>
+    <string name="label_has_ayar">Has Ayar:</string>
+    <string name="label_total_gr">Toplam Gr:</string>
+    <string name="label_total_ayar">Toplam Gr Ayarı:</string>
+
+    <string name="ph_takoz_gr">1000.0</string>
+    <string name="ph_takoz_ayar">916</string>
+
+    <string name="btn_hesapla">HESAPLA</string>
+    <string name="toast_success">İşlem Başarılı!</string>
+
+    <!-- Hata metinleri -->
+    <string name="err_number">Geçerli bir sayı girin.</string>
+    <string name="err_takoz_gr_positive">Takoz gram 0 dan büyük olmalı.</string>
+    <string name="err_ayar_range">Ayar 0–1000 arasında olmalı.</string>
+    <string name="err_has_eq_target">Has ayarı hedefe eşit olamaz.</string>
+
+
+</resources>

@@ -1,0 +1,13 @@
+/.idea/caches
+/.idea/libraries
+/.idea/workspace.xml
+/.idea/render.experimental.xml
+.gradle/
+build/
+local.properties
+**/build/
+*.iml
+# signing/keystore asla repo’ya girmesin
+*.jks
+*.keystore
+keystore.properties
