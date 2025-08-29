@@ -47,8 +47,8 @@ has_grams = m_takoz * (p_target/1000 - p_takoz/1000) / (p_has/1000 - p_target/10
 ---
 
 ## Screenshots
-<img width="439" height="927" alt="image" src="https://github.com/user-attachments/assets/ee22ede8-8962-4ea9-9a32-b3e058903072" />
-<img width="452" height="913" alt="image" src="https://github.com/user-attachments/assets/388fabf5-b4cc-4332-8494-0666315cc8dd" />
+<img width="439" height="936" alt="image" src="https://github.com/user-attachments/assets/ee22ede8-8962-4ea9-9a32-b3e058903072" />
+<img width="456" height="936" alt="image" src="https://github.com/user-attachments/assets/99a6429d-4a5e-489d-8287-996b37285692" />
 
 
 ---
